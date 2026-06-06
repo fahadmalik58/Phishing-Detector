@@ -1,0 +1,8 @@
+URGENT!
+
+Your account has been suspended.
+
+Verify now:
+http://192.168.1.1/login
+
+Provide your password immediately.
